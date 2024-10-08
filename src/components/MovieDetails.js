@@ -4,7 +4,7 @@ import ErrorMessage from "./ErrorMessage";
 import Loader from "./Loader";
 import StarRating from "./StarRating";
 
-const KEY = "833c90b5";
+const KEY = process.env.REACT_APP_OMDB_API_KEY;
 
 export default function MovieDetails({
   selectedId,
