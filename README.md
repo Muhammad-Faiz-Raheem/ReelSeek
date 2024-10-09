@@ -1,3 +1,7 @@
+# A Movies search based app
+
+This app use to searh different movies, add them to their watch list by rating them
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
