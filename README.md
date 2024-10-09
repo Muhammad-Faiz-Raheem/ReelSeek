@@ -1,4 +1,4 @@
-# A Movies search based app
+# Reel Seek
 
 This app use to searh different movies, add them to their watch list by rating them
 
